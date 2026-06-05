@@ -19,3 +19,8 @@ number guessing game — try to beat it
 
 ### ✂️ rps.py  
 rock paper scissors vs the computer
+
+### ➕ calculator
+calculator which can (+,-,*,/)
+
+### 🐍 snake eating apple game
